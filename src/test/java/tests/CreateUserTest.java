@@ -28,7 +28,7 @@ public class CreateUserTest {
         user.setLastName("Rahman");
         user.setEmail("n2.rahman@gmail.com");
         user.setPassword("demoPassword");
-        user.setPhone(111111111);
+        user.setPhone("111111111");
         user.setUserStatus(0);
 
         given()
